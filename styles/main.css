@@ -1,0 +1,57 @@
+h3.h_lvl_1 {
+    font-size: 35px;
+}
+
+h3.h_lvl_2 {
+    font-size: 30px;
+}
+
+p.dscrp_pg {
+    font-size: 25px;
+    line-height: 1.5;
+}
+
+a.toc_link {
+    font-size: 20px;
+    color: #070770;
+}
+
+a.toc_link :hover {
+    font-size: 20px;
+    color: red;
+}
+.btn{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding:6px;
+    border: none;
+    cursor:pointer;
+    font-size: 20px;
+    border-radius: 4px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(5, 0, 0);
+}
+
+table.toc, th, td {
+    border: 1px solid black;
+}
+
+dfn {
+    font-style: normal;
+    background-color: rgba(182, 252, 252, 0.322);
+    border: .2rem solid rgba(140, 204, 204, 0.747);
+    cursor: pointer;
+}
+.img1{
+    width: 350px;
+    position: absolute;
+    left: 1420px;
+    top:155px;
+
+}

@@ -1,0 +1,17 @@
+div#quiz {
+    background: rgba(167, 135, 135, 0.712);
+
+    width: 400px;
+    position: relative;
+    left: 34%;
+
+    border: 2px solid black;
+    border-collapse: collapse;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+div#result {
+    color: green;
+}
